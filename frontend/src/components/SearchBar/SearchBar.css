@@ -1,0 +1,26 @@
+#searchBar {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 4.0em;
+    padding: 0.0em 2.0em;
+    width: 70vh;
+}
+
+#searchText {
+    background-color: lightgray;
+    border-radius: 0.5em;
+    font-size: large;
+    color: white;
+    height: 2.0em;
+    width: 100%;
+}
+
+#search-button {
+    border-radius: 0.5em;
+    font-size: large;
+    height: 2.0em;
+    width: 6.0em;
+    margin-left: 1.0em;
+}

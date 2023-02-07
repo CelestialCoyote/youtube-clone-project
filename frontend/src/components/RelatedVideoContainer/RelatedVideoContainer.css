@@ -1,0 +1,20 @@
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#relatedVideoContainer {
+    background-color: black;
+    color: white;
+    width: 30%;
+}
+
+.relatedVideoTitleText {
+    width: 100%;
+    overflow: hidden;
+}
+
+.widthFifty {
+    width: 50%;
+}
